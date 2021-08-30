@@ -1,0 +1,10 @@
+Sr.No	Leader (Party)						PollSymbol
+1. 	Imran Khan (Pakistan Tehreek-e-Insaf)			Bat
+2. 	Nawaz Sharif (Pakistan Muslim League(N))		Tiger
+3. 	Bilawal Bhutto (Pakistan Peoples Party)			Arrow
+4. 	Molana Fazal Ur Rehman (Jamiat Ulama-e-islam)        	Book
+5. 	Asfandiyar Wali Khan (Awami National Party)		Lantern 
+6. 	Altaf Hussain (Muttahida Qaumi Movement Pakistan)	Kite
+7. 	Ch. SHujjat Hussain (Pakistan Muslim League - (Q) )	Tractor
+8. 	Muhammad Tahir-ul-Qadri (Pakistan Awami Tehreek)	Motorcycle
+9. 	Siraj ul Haq (Jamaat-e-islami Pakistan)			Scale
